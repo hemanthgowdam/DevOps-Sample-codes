@@ -1,0 +1,8 @@
+Hello team,
+We have used Cloudwatch on AWS to monitor.
+I can able to set up cloudwatch on AWS UI with metric and value for 80% CPU utilization.
+I dont know how to write a script. But I have an idea that we need when we are writing a script we need few parameters like instance name/ID, threshhold percentage.
+
+and to send a notification I have a knowledge on SNS we can send a emails to the respective person.
+
+In this case we can use AWS lambda as per my knowledge.
