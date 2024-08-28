@@ -1,4 +1,4 @@
-after creating the main.tf and variables.tf file excute the be;ow commands.
+after creating the main.tf and variables.tf file excute the below commands.
 terrform init
 terraform plan
 terraform apply
